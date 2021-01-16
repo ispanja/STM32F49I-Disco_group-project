@@ -1,2 +1,2 @@
 # STM32F49I-Disco_group-project
-Project on stm32 implementing the ball game. Demonstrates all possibilities and features on Cortex M architecture. My responsibility was implementing pwm, systick timer, external interrupts and Watch Dog. 
+Project on stm32f429i disco board implementing the ball game. Demonstrates all possibilities and features on Cortex M architecture. Demonstrates work with with systick, watchdog, spi, writting in flash memory, lcd initialization, touch panel initialization, using mems accelerometer, work with gpio, initialization on pwm signals, timers and external interrupts, using ADC with DMA
